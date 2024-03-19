@@ -3,8 +3,8 @@ Loma enables "click-to-deploy" commerce for online communities. Our platform let
 
 ## Project Goal
 The goal of this assignment is to create a View Listing page which, depending on some dynamic parameter, displays the contents of either 
-a) a listing related to a sneaker marketplace, or
-b) a listing on a hotel booking platform
+- a listing related to a sneaker marketplace, or
+- a listing on a hotel booking platform
 
 Imagine a sneakerhead conference/meetup is serving its community with a peer-to-peer sneaker marketplace as well as local booking for accommodations during the conference, but they want it all run on the same platform.
 
