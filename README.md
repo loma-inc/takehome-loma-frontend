@@ -4,7 +4,7 @@ Loma enables "click-to-deploy" commerce for online communities. Our platform let
 ## Project Goal
 The goal of this assignment is to create a View Listing page which displays the contents of a listing related to both a sneaker marketplace and a hotel booking platform.
 
-We are more interested in the design and layout of your code than the visual appearance, its ok if it is visually basic. To reduce the amount of time spent, its not required that the frontend component communicates with the backend. Instead, you can provide mock data in `src/App.js` that is provided to `src/ListingPage.js`.
+We are more interested in the design and layout of your code than the visual appearance, its ok if it is visually basic. To reduce the amount of time spent, its not required that the frontend component communicates with the backend. Instead, you can provide mock data in `src/App.js` that is passed to `src/ListingPage.js`.
 
 It is expected that you will spend up to 4 hours on the backend and frontend pieces of this project combined. The intent is to replace several traditional "onsite" interviews and coding sessions with one project that is done on your own time in an environment that is more similar to your usual setup.
 
