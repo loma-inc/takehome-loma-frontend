@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Loma Take Home
+Loma enables "click-to-deploy" commerce for online communities. Our platform lets any community organizer launch lightweight commerce rails for its members, including models like peer-to-peer marketplaces, sponsored classifieds, and directories.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Goal
+The goal of this assignment is to create a View Listing page which displays the contents of a listing related to both a sneaker marketplace and a hotel booking platform.
 
-## Available Scripts
+We are more interested in the design and layout of your code than the visual appearance, its ok if it is visually basic. To reduce the amount of time spent, its not required that the frontend component communicates with the backend. Instead, you can provide mock data in `src/App.js` that is provided to `src/ListingPage.js`.
 
-In the project directory, you can run:
+It is expected that you will spend up to 4 hours on the backend and frontend pieces of this project combined. The intent is to replace several traditional "onsite" interviews and coding sessions with one project that is done on your own time in an environment that is more similar to your usual setup.
 
-### `npm start`
+## Assessment
+We'll be looking at the design and architecture of your solution, including how you structure your code and adherence to best practices. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Submission
+Submit a link to a GitHub (or other) repository, or zip file via email to sean@loma.tech. Please provide a README that briefly explains your solution and any decisions that you would like to highlight.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Don't hesitate to reach out to sean@loma.tech if you have any questions. 
