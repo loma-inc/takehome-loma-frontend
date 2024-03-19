@@ -2,7 +2,11 @@
 Loma enables "click-to-deploy" commerce for online communities. Our platform lets any community organizer launch lightweight commerce rails for its members, including models like peer-to-peer marketplaces, sponsored classifieds, and directories.
 
 ## Project Goal
-The goal of this assignment is to create a View Listing page which displays the contents of a listing related to both a sneaker marketplace and a hotel booking platform.
+The goal of this assignment is to create a View Listing page which, depending on some dynamic parameter, displays the contents of either 
+a) a listing related to a sneaker marketplace, or
+b) a listing on a hotel booking platform
+
+Imagine a sneakerhead conference/meetup is serving its community with a peer-to-peer sneaker marketplace as well as local booking for accommodations during the conference, but they want it all run on the same platform.
 
 We are more interested in the design and layout of your code than the visual appearance, its ok if it is visually basic. To reduce the amount of time spent, its not required that the frontend component communicates with the backend. Instead, you can provide mock data in `src/App.js` that is passed to `src/ListingPage.js`.
 
